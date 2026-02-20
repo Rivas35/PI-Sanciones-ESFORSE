@@ -14,4 +14,7 @@ public class Aspirante {
     public String obtenerDatosQR() {
         return "ID: " + idAspirante + " | Aspirante: " + nombres + " " + apellidos + " | Grado: " + grado;
     }
+
+    // Validado para la Tarea 7 de GCS
 }
+
